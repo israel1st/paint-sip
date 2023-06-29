@@ -18,7 +18,7 @@ const Navbar = () => {
                 </div>
 
                 <ul className={`menu ${menuOpen ? 'open' : ''}`}>
-                    <li><a href="#">HOME</a></li>
+                    <li><a href="#" style={{ color: '#F52485' }}>HOME</a></li>
                     <li><a href="#">ABOUT</a></li>
                     <li><a href="#">SERVICES</a></li>
                     <li><a href="#">GALLERY</a></li>
